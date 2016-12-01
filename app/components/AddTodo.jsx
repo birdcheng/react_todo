@@ -24,7 +24,7 @@ var AddTodo = React.createClass({
                     <button className="button expanded">AddTodo</button>
                 </form>
             </div>
-        )
+        );
     }
 });
 
